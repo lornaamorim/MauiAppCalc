@@ -1,0 +1,13 @@
+﻿namespace MauiAppCalc
+{
+    public partial class MainPage : ContentPage
+    {
+        int count = 0;
+
+        public MainPage() 
+        { 
+            Ini
+        }
+    }
+    }
+}
